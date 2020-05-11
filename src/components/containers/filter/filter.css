@@ -1,0 +1,14 @@
+input[type=checkbox] {
+    width: 18px; /*Desired width*/
+    height: 18px; /*Desired height*/
+    cursor: pointer;
+
+}
+
+.checkbox-items label {
+    margin-left: 5px;
+    text-transform: capitalize;
+}
+
+.filter {
+    padding: 10px 10px}

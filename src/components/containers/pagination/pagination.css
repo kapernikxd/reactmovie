@@ -1,0 +1,18 @@
+.commentBox {
+    margin-top: 30px;
+
+}
+
+.pagination {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(15px, 45px));
+    text-align: center;
+
+}
+
+.pagination li {
+    cursor: pointer;
+}
+
+
+
